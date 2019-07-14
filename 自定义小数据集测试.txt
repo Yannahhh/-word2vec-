@@ -1,0 +1,4 @@
+1	all:148 anger:22 disgust:2 fear:60 joy:0 sad:64 surprise:0	phone phone apple my
+1	all:148 anger:22 disgust:2 fear:60 joy:0 sad:64 surprise:0	xilinc your my xilinc
+1	all:148 anger:22 disgust:2 fear:60 joy:0 sad:64 surprise:0	apple phone expensive and using well
+1	all:148 anger:22 disgust:2 fear:60 joy:0 sad:64 surprise:0	hello word xilinc
